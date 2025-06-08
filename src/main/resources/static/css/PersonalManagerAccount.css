@@ -1,0 +1,66 @@
+.u-section-1 .u-text-1 {
+    font-weight: 700;
+    width: 817px;
+    margin: 200px auto 0;
+    margin-bottom: 30px;
+}
+
+.u-section-1 .u-table-header-1 {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.u-section-1 .u-table-cell-1,
+.u-section-1 .u-table-cell-2,
+.u-section-1 .u-table-cell-3,
+.u-section-1 .u-table-cell-4 {
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 0px;
+    font-size: 1.25rem;
+    width: 200px; 
+}
+
+.u-section-1 .u-table-cell-3,
+.u-section-1 .u-table-cell-4 {
+    font-size: 1.125rem;
+}
+
+.u-section-1 .u-table-body-1 {
+    line-height: 1.6;
+    font-size: 1.25rem;
+}
+
+.u-section-1 .u-table-cell-11,
+.u-section-1 .u-table-cell-12,
+.u-section-1 .u-table-cell-19,
+.u-section-1 .u-table-cell-20,
+.u-section-1 .u-table-cell-23,
+.u-section-1 .u-table-cell-24 {
+    font-size: 2.25rem;
+    line-height: 1;
+}
+
+.u-section-1 .u-btn-1 {
+    text-transform: uppercase;
+    font-size: 1.125rem;
+    letter-spacing: 2px;
+    margin: 30px auto;
+    padding: 11px 24px 11px 23px;
+    margin-bottom: 30px;
+}
+
+.table-scroll {
+    max-height: 580px; 
+    overflow-y: auto;  
+}
+
+.u-table-cell-1 { background-color: #ffffff; } 
+.u-table-cell-2 { background-color: #CFD8DC; } 
+.u-table-cell-3 { background-color: #B0BEC5; } 
+.u-table-cell-4 { background-color: #90A4AE; } 
+.u-table-cell-5 { background-color: #78909C; } 
+.u-table-cell-6 { background-color: #607D8B; } 
+.u-table-cell-7 { background-color: #546E7A; } 
